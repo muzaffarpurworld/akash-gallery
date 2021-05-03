@@ -1,1 +1,1 @@
-# akash-galley
+# akash-gallery
